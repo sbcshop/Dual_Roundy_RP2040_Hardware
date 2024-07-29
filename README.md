@@ -1,6 +1,8 @@
 # Dual_Roundy_RP2040_Hardware
 
-<img src= "" />
+<!--
+<img src= "https://github.com/sbcshop/Dual_Squary_ESP32_Software/blob/main/images/duo_display_banner.jpg" />
+-->
 
 This Github provides hardware design files for Dual Roundy RP2040 and Common hardware unit.
 
