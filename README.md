@@ -14,19 +14,19 @@ This Github provides hardware design files for Dual Roundy RP2040 and Common har
 ## Related Products  
   * [2x2 Display with Pico W (Round)](https://shop.sb-components.co.uk/products/2x2-quad-display-board?variant=41538301427795)
 
-    ![2x2 Display with Pico W (Round)](https://shop.sb-components.co.uk/cdn/shop/files/mainroundpico.png?v=1720526791&width=300)
-  
+    ![2x2 Display with Pico W (Round)](https://shop.sb-components.co.uk/cdn/shop/files/mainroundpico_9049cee6-4f8a-4150-bbac-9e5c124a4840.png?v=1721623835&width=300)
+    
   * [2x2 Display with Pico W (Square)](https://shop.sb-components.co.uk/products/2x2-quad-display-board?variant=41538301460563)
 
     ![2x2 Display with Pico W (Square)](https://shop.sb-components.co.uk/cdn/shop/files/squarepico.png?v=1720527004&width=300)
     
-  * [Touchsy - 3.2" Touch LCD Display Based on ESP32](https://shop.sb-components.co.uk/products/touchsy-3-2-touch-lcd-display-based-on-esp32-mcu?variant=40828141174867)
+  * [Touchsy - 3.2" Touch LCD Display Based on Pico W](https://shop.sb-components.co.uk/products/touchsy-3-2-touch-lcd-display-based-on-pico-w?variant=40828148744275)
 
-    ![Touchsy - 3.2" Touch LCD Display Based on ESP32](https://shop.sb-components.co.uk/cdn/shop/files/esp.jpg?v=1686900424&width=300)
+    ![Touchsy - 3.2" Touch LCD Display Based on Pico W](https://shop.sb-components.co.uk/cdn/shop/files/touchsypicowresitive.jpg?v=1686903806&width=300)
   
-  * [Rotary Encoder - LED Array & Touch LCD Powered by ESP32](https://shop.sb-components.co.uk/products/rotary-encoder-led-array-touch-lcd-for-esp32-pico-hat?variant=41002601709651)
+  * [Rotary Encoder - LED Array & Touch LCD Powered by Pico W](https://shop.sb-components.co.uk/products/rotary-encoder-led-array-touch-lcd-for-esp32-pico-hat?variant=41002601676883)
 
-    ![Rotary Encoder - LED Array & Touch LCD Powered by ESP32](https://shop.sb-components.co.uk/cdn/shop/files/RotaryEncoder-LEDArray_TouchLCDforESP32PicoHAT_6.png?v=1710413189&width=300)
+    ![Rotary Encoder - LED Array & Touch LCD Powered by Pico W](https://shop.sb-components.co.uk/cdn/shop/files/RotaryEncoder-LEDArray_TouchLCDforESP32PicoHAT_7.png?v=1710413189&width=300)
 
 
 ## Product License
